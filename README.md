@@ -3,7 +3,7 @@
 
 **Version 1.0 - Legacy Data Retrieval Platform**  
 **Developed for:** Nigeria Customs Service (NCS)  
-**Lead Officer:** AC Osamwonyi Ehigie Uzamere (OC Cybersecurity, Tincan Island Command)
+**Lead Officer:** AC Osamwonyi Ehigie Uzamere (OC Cybersecurity)
 
 ---
 
